@@ -4,6 +4,13 @@ global:
 releases:
   - author: 'Marcel Gruenauer <marcel@cpan.org>'
     changes:
+      - added Text::Pipe::Translate
+    date: 2007-11-15T14:05:02Z
+    tags:
+      - NEWFEATURE
+    version: 0.02
+  - author: 'Marcel Gruenauer <marcel@cpan.org>'
+    changes:
       - original version
     date: 2007-11-10T15:29:43Z
     tags: []

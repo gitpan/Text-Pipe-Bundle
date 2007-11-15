@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 1;
@@ -38,6 +38,8 @@ Text::Pipe
 Text::Pipe::HTML
 
 Text::Pipe::Encoding
+
+Text::Pipe::Translate
 
 =head1 TAGS
 
