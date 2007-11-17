@@ -4,13 +4,15 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 1;
 
 
 __END__
+
+
 
 =head1 NAME
 
@@ -41,17 +43,23 @@ Text::Pipe::Encoding
 
 Text::Pipe::Translate
 
+PerlIO::via::Pipe
+
 =head1 TAGS
 
 If you talk about this module in blogs, on del.icio.us or anywhere else,
 please use the C<textpipebundle> tag.
+
+=head1 VERSION 
+                   
+This document describes version 0.03 of L<Text::Pipe::Bundle>.
 
 =head1 BUGS AND LIMITATIONS
 
 No bugs have been reported.
 
 Please report any bugs or feature requests to
-C<bug-text-pipe-bundle@rt.cpan.org>, or through the web interface at
+C<<bug-text-pipe-bundle@rt.cpan.org>>, or through the web interface at
 L<http://rt.cpan.org>.
 
 =head1 INSTALLATION
@@ -74,6 +82,7 @@ Copyright 2007 by Marcel GrE<uuml>nauer
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
+
 
 =cut
 

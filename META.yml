@@ -1,7 +1,7 @@
 --- 
 abstract: install Text::Pipe and derived distributions
 author: 
-  - Marcel GrE<uuml>nauer, C<< <marcel@cpan.org> >>
+  - "{% ELSE %}"
 build_requires: 
   Test::Compile: 0
   Test::More: 0
@@ -19,4 +19,4 @@ no_index:
     - t
 requires: 
   perl: 5.6.0
-version: 0.02
+version: 0.03
